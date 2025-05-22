@@ -1,3 +1,3 @@
 @echo off
-cd "C:\Users\SAIL\Desktop\My Personal"
+cd "C:\Users\Olalesi\Broadway-Scraper"
 python java_extract.py
