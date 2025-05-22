@@ -1,0 +1,3 @@
+[2025-05-22_11-00] Scraped 20 events -> broadway_events_2025-05-22_11-00.csv
+[2025-05-22_11-01] Scraped 20 events -> broadway_events_2025-05-22_11-01.csv
+[2025-05-22_11-02] Scraped 20 events -> broadway_events_2025-05-22_11-02.csv
