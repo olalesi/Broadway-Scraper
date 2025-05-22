@@ -39,4 +39,4 @@ python broadway_scraper.py
 - `scrape_log.txt`: Log of scrape runs
 
 ## 👤 Author
-Built by Tobi as part of a web scraping technical assessment.
+Built by Olalesi as part of a web scraping technical assessment.
