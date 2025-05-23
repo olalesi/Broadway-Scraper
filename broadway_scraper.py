@@ -105,7 +105,7 @@ async def scrape_broadway():
 
         # Save results to CSV
         timestamp = time.strftime("%Y-%m-%d_%H-%M")
-        filename = f"broadway_scraper_{timestamp}.csv"
+        filename = f"broadway_events_{timestamp}.csv"
         filepath = os.path.join(PROJECT_FOLDER, filename)
 
         with open(filepath, "w", newline="", encoding="utf-8") as f:
