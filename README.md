@@ -18,7 +18,7 @@ This project is a Python-based tool that scrapes upcoming Broadway shows in New 
 👉 pip install requests playwright
 👉 playwright install
 2. Configure Project Folder
-  Open broadway_scraper.py and set the PROJECT_FOLDER variable to your desired folder path. This is where your CSV files will be stored.
+- Open broadway_scraper.py and set the PROJECT_FOLDER variable to your desired folder path. This is where your CSV files will be stored.
 
 ▶️ How to Use
 Run the Scraper Manually
