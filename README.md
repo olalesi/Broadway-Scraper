@@ -21,24 +21,23 @@ This project is a Python-based tool that scrapes upcoming Broadway shows in New 
 - Open broadway_scraper.py and set the PROJECT_FOLDER variable to your desired folder path. This is where your CSV files will be stored.
 
 ▶️ How to Use
-Run the Scraper Manually
-To run the scraper manually, use:
-python broadway_scraper.py
+- Run the Scraper Manually
+- To run the scraper manually, use: python broadway_scraper.py
 
 🔁 Automate with Windows Task Scheduler
-Want to automate the scraper to run daily? Follow these steps:
+- Want to automate the scraper to run daily? Follow these steps:
 1. Open Task Scheduler on your Windows machine
 2. Click Create Basic Task
 3. Set a daily trigger (e.g., 8:00 AM)
 4. Choose Start a program and point to run_scraper.bat
 5. Save and you're done!
-Your script will now run automatically each day.
+- Your script will now run automatically each day.
 
 📁 Output Files
 - broadway_enriched_api_only_*.csv: Timestamped CSV with enriched event data
 - scrape_log.txt: Log file for tracking each run and potential issues
 
 👨‍💻 About the Project
-Created by Olalesi for a technical web scraping assessment.
-The project showcases a hybrid approach combining API usage with browser automation for reliable, structured, up-to-date Broadway show data.
+- Created by Olalesi for a technical web scraping assessment.
+- The project showcases a hybrid approach combining API usage with browser automation for reliable, structured, up-to-date Broadway show data.
 
